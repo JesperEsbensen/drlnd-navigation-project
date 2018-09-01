@@ -8,7 +8,7 @@ This note book will create and train an agent to collect yellow bananas in the U
 
 ![Banana Environment](https://github.com/JesperEsbensen/drlnd-navigation-project/blob/master/banana-env.png)
 
-The environment is a square where yellow and blue bananas are dropping out of the sky. The agent is giving directions to at wagon that moves around in the square and collects bananas. Yellow bananas are rewarded with 1 point and blue bananas with -1. The tast is to collect at least 13 points in averge over 100 episodes. An episode is 1000 steps in the environment.<br>
+The environment is a square where yellow and blue bananas are dropping out of the sky. The agent is giving directions to at wagon that moves around in the square and collects bananas. Yellow bananas are rewarded with 1 point and blue bananas with -1. The task is to collect at least 13 points in averge over 100 episodes. An episode is 1000 steps in the environment.<br>
 
 
 ### 1. Installation instructions
