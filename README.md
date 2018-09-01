@@ -54,6 +54,7 @@ To download this repository and run the banana hunter agent on your machine clon
 
     git clone https://github.com/JesperEsbensen/drlnd-navigation-project.git
 
+when clones unpack the Banana_Windows_x86_64 in the same location so you get a subfolder: Banana_Windows_x86_64. If you unpack the environment in a different location you will need to change the path to the environment in the notebook accordingly.
 
 ### 3. Train the agent
 
