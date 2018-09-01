@@ -50,3 +50,11 @@ or reference this page if you have problems: https://github.com/Unity-Technologi
 
 ### 2. Clone the "Banana Hunter" project
 
+To download this repository and run the banana hunter agent on your machine clone this github repository with the following command:
+
+git clone https://github.com/
+
+
+### 3. Train the agent
+
+When you have installed all above packages and cloned the repository to your machine you can open and run the jupyter notebook Report.ipynb.
