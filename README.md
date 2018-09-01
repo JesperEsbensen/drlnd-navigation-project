@@ -48,4 +48,5 @@ find and change to the directory: ml-agents/python and install the ml-agenst wit
 or reference this page if you have problems: https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation-Windows.md
 
 
-### 2. Import the needed modules into the notebook environment
+### 2. Clone the "Banana Hunter" project
+
