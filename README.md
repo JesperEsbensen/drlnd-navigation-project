@@ -52,7 +52,7 @@ or reference this page if you have problems: https://github.com/Unity-Technologi
 
 To download this repository and run the banana hunter agent on your machine clone this github repository with the following command:
 
-    git clone https://github.com/
+    git clone https://github.com/JesperEsbensen/drlnd-navigation-project.git
 
 
 ### 3. Train the agent
