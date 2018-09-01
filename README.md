@@ -7,6 +7,7 @@ Created by Jesper Højmark Esbensen, 2018-08-31.<br>
 This note book will create and train an agent to collect yellow bananas in the Unity Machine Learning environment Banana. The solution is based on the general deep reenforcement learning agent supplied in the cource [Deep Reinforcement Learning Nanodegree](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).
 
 <img src="banana-env.png",width=750>
+![](./banana-env.png =750x)
 
 The environment is a square where yellow and blue bananas are dropping out of the sky. The agent is giving directions to at wagon that moves around in the square and collects bananas. Yellow bananas are rewarded with 1 point and blue bananas with -1. The tast is to collect at least 13 points in averge over 100 episodes. An episode is 1000 steps in the environment.<br>
 
