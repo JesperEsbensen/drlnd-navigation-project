@@ -21,8 +21,8 @@ Create an python environment using the "Create" button and select the python 3.6
 
 Install jupyter in the environment. 
 
-    python3 -m pip install --upgrade pip
-    python3 -m pip install jupyter
+    python -m pip install --upgrade pip
+    python -m pip install jupyter
    
 or reference jupyters home page if you have problems: http://jupyter.org/install
 
